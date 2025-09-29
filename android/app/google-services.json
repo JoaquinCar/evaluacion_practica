@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "952462688777",
-    "project_id": "evaluacionpractica-8bb3f",
-    "storage_bucket": "evaluacionpractica-8bb3f.firebasestorage.app"
+    "project_number": "836333937912",
+    "project_id": "appointment-app-59053",
+    "storage_bucket": "appointment-app-59053.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:952462688777:android:0943936e765e5a615b2ed8",
+        "mobilesdk_app_id": "1:836333937912:android:644de08b77960a4e56070d",
         "android_client_info": {
           "package_name": "com.example.evaluacion_practica"
         }
@@ -15,7 +15,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA9dPF24G1wmnKqdR6KYL5t5okIKqn6m9M"
+          "current_key": "AIzaSyCwqNoBpFM9fxJnWnMHuBgvFYWXghpiRDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836333937912:android:59ce22b47692cc9a56070d",
+        "android_client_info": {
+          "package_name": "com.example.patron_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqNoBpFM9fxJnWnMHuBgvFYWXghpiRDs"
         }
       ],
       "services": {
